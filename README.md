@@ -14,23 +14,6 @@ An intelligent research assistant platform designed to parse academic papers, ex
 
 ---
 
-## 🖼️ Interface & Dashboard
-
-Below are previews of the system interface. To display your actual images, name your images `dashboard.png` and `recommendation.png`, upload them to your repository folder, and they will display automatically here.
-
-### Main Dashboard UI
-<!-- This acts as a center-aligned image container -->
-<p align="center">
-  <img src="dashboard.png" alt="System Dashboard UI View" width="100%" />
-</p>
-
-### Personalized Recommendation Flow
-<p align="center">
-  <img src="recommendation.png" alt="Recommendation Logic Interface" width="100%" />
-</p>
-
----
-
 ## 🌟 Key Features
 
 * **📄 Academic Document Parsing:** Automatically ingests and parses PDF research papers to build comprehensive vector knowledge stores.
